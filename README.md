@@ -11,7 +11,6 @@ um olhar diferente das personagens.
 ## Funcionalidades
 
 - **Pesquisa Interativa**: Permite aos usuários pesquisar por personagens femininas específicas da série.
--  Possui um paragrafo abaixo mostrando todos os nomes que podem ser pesquisados no caso das 15 personagens femininas do anime 
 - **Lista de Personagens**: Exibe uma lista das principais personagens femininas, incluindo Rei, Asuka, Misato, e muitas outras.
 - **Design Responsivo**: O site é totalmente responsivo e acessível em diferentes dispositivos.
 
@@ -21,4 +20,4 @@ um olhar diferente das personagens.
 - **CSS3**: Estilização e layout.
 - **JavaScript**: Funcionalidades interativas e manipulação do DOM.
 
-- e é esse o projeto! espero que gostem 
+  É esse o projeto! espero que gostem 
