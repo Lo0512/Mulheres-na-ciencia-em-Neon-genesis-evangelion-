@@ -2,6 +2,8 @@ Oiie,
 esse é meu primeiro site elaborado na imersão: Alura em parceria com o Google. O tema foi
 inspirado em algumas analises do anime Neon genesis evangelion, que me chamaram atenção quando eu assistir.
 
+![Demostração (2)](https://github.com/user-attachments/assets/e63f32fe-34f5-4500-b462-2bad27b3b57e)
+
 # Mulheres na Ciência em Neon Genesis Evangelion
 
 Este projeto é um site interativo que destaca as personagens femininas da série **Neon Genesis Evangelion**.
